@@ -1,0 +1,2 @@
+Person 1 pays 4000 to Person 2
+Person 0 pays 3000 to Person 2
